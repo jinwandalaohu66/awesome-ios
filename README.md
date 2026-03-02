@@ -1771,7 +1771,7 @@ Most of these are paid services, some have free tiers.
 - [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
 - [swiftmon](https://github.com/dimpiax/swiftmon) - swiftmon restarts your swift application in case of any file change.
 - [Model2App](https://github.com/Q-Mobile/Model2App) - Turn your Swift data model into a working CRUD app.
-
+- [Python IDE](https://apps.apple.com/app/id6753987304) - Python 3.13 & JavaScript IDE for iPhone/iPad. Features AI assistant, NumPy, Pillow, 150+ prebuilt wheels, Siri Shortcuts integration and Live Activity support.
 **[back to top](#contributing-and-collaborating)**
 
 ## Reactive Programming
